@@ -6,6 +6,4 @@ I am a tech enthusiast who loves to explore more about modern web technology, In
 
 Check my portfolio for more information [raajnadar.in][1]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raajnadar&theme=tokyonight)](https://raajnadar.in)
-
 [1]: https://raajnadar.in
